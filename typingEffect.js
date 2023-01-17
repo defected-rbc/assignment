@@ -1,4 +1,4 @@
-const words = ["NOTES", "ASSIGNMENT", "PROJECTS", "TUTORIAL SHEET", "KNOW MORE...", ":)))"];
+const words = ["ASSIGNMENT","NOTES", "PROJECTS", "TUTORIAL SHEET", "KNOW MORE...", ":)))"];
 let i = 0;
 let timer;
 
