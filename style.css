@@ -192,4 +192,6 @@ p>a {
     font-family: "Arial";
     font-size: 20px;
     padding: 0.1em;
+    margin-left:auto;
+    font-weight: bold;
 }
